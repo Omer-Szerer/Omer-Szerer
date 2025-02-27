@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋🏼 I'm Omer - Web Developer & Product / Motion Designer</h2>
+<h2 align="center">Hi there 👋🏼 I'm Omer - Web Developer & UX / Motion Designer</h2>
 <h3 align="center">Design | Code | Animation</h3>
 
 I Enjoy building dynamic full-stack applications, and passionate about front-end development in particular UX design, usability, and accessibility. 
